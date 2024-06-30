@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleTextView" type="id" />
+    <item name="subtitleTextView" type="id" />
+    <item name="usernameEditText" type="id" />
+    <item name="passwordToggleImageView" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="loginButton" type="id" />
+    <item name="registerTextView" type="id" />
+    <item name="token" type="id" />
+    <item name="userId" type="id" />
+    <item name="userName" type="id" />
+
+</resources>
